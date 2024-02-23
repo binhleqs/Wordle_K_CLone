@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+Wordle_K_CLone.egg-info/PKG-INFO
+Wordle_K_CLone.egg-info/SOURCES.txt
+Wordle_K_CLone.egg-info/dependency_links.txt
+Wordle_K_CLone.egg-info/top_level.txt
+src/wordle.py
+src/wordle_main.py
