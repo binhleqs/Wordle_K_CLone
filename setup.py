@@ -8,4 +8,6 @@ setup(
     version = '0.1',
     packages = ['src'],
     install_requires=[],
+    url='https://github.com/binhleqs/Wordle_K_CLone',
+
 )
